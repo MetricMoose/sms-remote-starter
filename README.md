@@ -12,3 +12,8 @@ http://imgur.com/a/1iLDO
 
 Video here:
 https://www.youtube.com/watch?v=nciXATeEKHQ
+
+Required Libraries:
+http://milesburton.com/Main_Page?title=Dallas_Temperature_Control_Library
+http://www.pjrc.com/teensy/td_libs_OneWire.html
+http://www.rocketscream.com/blog/2011/07/04/lightweight-low-power-arduino-library/
